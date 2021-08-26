@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Light Exposure Behaviour Assessment (LEBA) 
-tagline: Easy websites with GitHub Pages
+title: Light Exposure Behaviour Assessment (LEBA)
 description: Website for the Light Exposure Behaviour Assessment (LEBA) instrument
 ---
 

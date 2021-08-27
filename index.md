@@ -4,7 +4,6 @@ title: Light Exposure Behaviour Assessment (LEBA)
 description: Website for the Light Exposure Behaviour Assessment (LEBA) instrument
 ---
 
-![LEBA cartoon logo](_images/image.png)
 ![LEBA cartoon logo](image.png)
 
 ### About

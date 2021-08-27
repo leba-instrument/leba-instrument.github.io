@@ -8,7 +8,7 @@ description: Website for the Light Exposure Behaviour Assessment (LEBA) instrume
 
 ### About
 
-The Light Exposure Behaviour Assessment (LEBA) instrument is a novel instrument for capturing, assessing and quantifying self-reported behaviours related to light exposure in humans.
+The **Light Exposure Behaviour Assessment (LEBA)** instrument is a novel instrument for capturing, assessing and quantifying self-reported behaviours related to light exposure in humans.
 
 ### Citing
 

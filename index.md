@@ -18,6 +18,8 @@ If you are using the instrument, please cite the instrument's repository as well
 
 The Light Exposure Behaviour Assessment (LEBA) instrument is released under the [CC-BY-NC-SA (Creative Commons Attribution-NonCommercial-ShareAlike 4.0) International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
+![CC-BY-NC-SA logo](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)
+
 ### Contributing and translations
 
 We welcome translations of the LEBA instrument, under the conditions of the [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/). For any questions regarding translations, please email [Dr Manuel Spitschan](mailto:manuel.spitschan@psy.ox.ac.uk).

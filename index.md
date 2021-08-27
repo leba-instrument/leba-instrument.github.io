@@ -5,6 +5,7 @@ description: Website for the Light Exposure Behaviour Assessment (LEBA) instrume
 ---
 
 ![LEBA cartoon logo](_images/image.png)
+![LEBA cartoon logo](image.png)
 
 ### About
 

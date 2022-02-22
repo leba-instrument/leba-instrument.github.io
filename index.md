@@ -22,7 +22,7 @@ The Light Exposure Behaviour Assessment (LEBA) instrument is released under the 
 
 ### Contributing and translations
 
-We welcome translations of the LEBA instrument, under the conditions of the [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/). For any questions regarding translations, please email [Dr Manuel Spitschan](mailto:manuel.spitschan@psy.ox.ac.uk).
+We welcome translations of the LEBA instrument, under the conditions of the [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/). For any questions regarding translations, please email [Prof. Dr.. Manuel Spitschan](mailto:manuel.spitschan@tum.de).
 
 ### List of publications using the LEBA instrument
 

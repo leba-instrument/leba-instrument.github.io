@@ -26,9 +26,11 @@ LEBA captures light exposure-related behaviours on a 5 point Likert type scale r
 
 ### Key links
 
+- [Main GitHub organisation](https://github.com/leba-instrument/)
 - [OSF page with archival and version-stamped releases (DOI: 10.17605/OSF.IO/EZ6GJ)](https://doi.org/10.17605/OSF.IO/EZ6GJ)
 - [GitHub repository of the instrument](https://github.com/leba-instrument/leba-instrument-en)
 - [GitHub repository of the reproducible manuscript](https://github.com/leba-instrument/leba-manuscript)
+- [This website](leba-instrument.org) and [repository for this website](https://github.com/leba-instrument/leba-instrument.github.io)
 
 ### License
 

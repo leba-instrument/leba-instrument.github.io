@@ -23,9 +23,10 @@ The **Light Exposure Behaviour Assessment (LEBA)** instrument is a novel instrum
 
 ### Citing
 
-If you are using the instrument, please cite the instrument's OSF page ([DOI: 10.17605/OSF.IO/EZ6GJ](https://doi.org/10.17605/OSF.IO/EZ6GJ)) as well as our preprint on the topic:
+If you are using the instrument, please cite the instrument's OSF page ([DOI: 10.17605/OSF.IO/EZ6GJ](https://doi.org/10.17605/OSF.IO/EZ6GJ)) as well as our publication on the instrument:
 
-> Siraji, M. A., Lazar, R., van Duijnhoven, J., Schlangen, L., Haque, S., Kalavally, V., Vetter, C., Glickman, G., Smolders, K., & Spitschan, M. (2023). An inventory of human light exposure related behavior [Preprint]. _Research Square._ https://doi.org/10.21203/rs.3.rs-2587424/v1
+>Siraji, M. A., Lazar, R. R., van Duijnhoven, J., Schlangen, L. J. M., Haque, S., Kalavally, V., Vetter, C., Glickman, G. L., Smolders, K. C. H. J., & Spitschan, M. (2023). An inventory of human light exposure behaviour. _Scientific Reports, 13_(1), 22151. https://doi.org/10.1038/s41598-023-48241-y
+
 
 ### Instructions
 
@@ -58,3 +59,11 @@ For any questions regarding translations, please email [Prof. Dr. Manuel Spitsch
 ### List of publications using the LEBA instrument
 
 This list gives an overview of publications using the LEBA instrument.
+
+>Siraji, M. A., Lazar, R. R., van Duijnhoven, J., Schlangen, L. J. M., Haque, S., Kalavally, V., Vetter, C., Glickman, G. L., Smolders, K. C. H. J., & Spitschan, M. (2023). An inventory of human light exposure behaviour. _Scientific Reports, 13_(1), 22151. https://doi.org/10.1038/s41598-023-48241-y
+
+>Siraji, M. A., Spitschan, M., Kalavally, V., & Haque, S. (2023). Light exposure behaviors predict mood, memory and sleep quality. _Scientific Reports, 13_(1), 12425. https://doi.org/10.1038/s41598-023-39636-y
+
+
+
+
